@@ -29,12 +29,12 @@ span{
 }
 .card_image{
     width: 30%;
-    height:25%;  
-    margin:15px
+    height:25%; 
+    
 }
 .card_body{
     text-align: center;
-    margin-top: 15%;
+    
 }
 .Crd{
     height: 40vh;
@@ -48,16 +48,20 @@ span{
 .section_two{
     margin-top:50px;
 }
-.footer_img_icon{
-    height:4vh;
-    width: 2vw;
+.footer_img_icon1{
+    height:5vh;
+    width: 20%;
+}
+.footer_img_icon2{
+    height:3vh;
+    width: 24%;
 }
 .crd-title{
     margin-top:20px;
 }
 .btn_buy_course{
     border-radius: 40px;
-    width: 10vw;
+    width: 40%;
 }
 .testimonial_title{
     text-align: center;
@@ -65,8 +69,8 @@ span{
 }
 
 #man_img{
-    width: 10vw;
-    height: 17vh;
+    width: 14vw;
+    height: auto;
     border-radius: 50px;
 }
 .test_content{
